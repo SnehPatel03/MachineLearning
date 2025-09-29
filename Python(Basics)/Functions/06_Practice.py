@@ -6,4 +6,5 @@ def fact(n):
         return fact(n-1)*n
     
 result = fact(5)
-print(result)
+
+print("Factorial is" , result)
